@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.cpp text eol=lf
+*.dat text eol=lf
+*.gnuplot text eol=lf
+*.md text eol=lf

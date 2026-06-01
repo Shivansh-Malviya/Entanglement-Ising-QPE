@@ -1,0 +1,20 @@
+# Build products
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+build/
+cmake-build-*/
+
+# Local generated output from ad hoc runs
+/*.dat
+/*.pdf
+
+# Editor and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
